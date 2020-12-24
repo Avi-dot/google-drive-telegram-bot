@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1499453210:AAHoHvYDCLy0GpenLm3pU-wjA4qGhlBE0z0"
+    APP_ID = "2141028"
+    API_HASH = "bbf86a99cfb79d7f148fb22623f8bc19"
+    DATABASE_URL = "postgres://ndfwvxtdfnfobk:a487ec54fa6ffff021f284b818a8bc0895e3404309b77cfd7d570e5f9cd77b89@ec2-3-211-176-230.compute-1.amazonaws.com:5432/djucn4s1kqk89"
+    SUDO_USERS = "1326748352 303457007" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://telegram.me/legendarytricksgroup"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
